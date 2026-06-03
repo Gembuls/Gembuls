@@ -40,10 +40,10 @@ I am a passionate Software Engineering Technology student specializing in backen
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gembuls&show_icons=true&theme=radical" alt="Zidan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agalicogati&show_icons=true&theme=radical" alt="Zidan's GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gembuls&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agalicogati&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
