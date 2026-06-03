@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Zidan Martin! 👋
+# Hi there, I'm Agali Cogati! 👋
 
 Backend Developer | UI/UX Designer | Software Engineering Technology Student
 
@@ -7,7 +7,6 @@ Backend Developer | UI/UX Designer | Software Engineering Technology Student
 ## 🚀 About Me
 I am a passionate Software Engineering Technology student specializing in backend development and UI/UX design. I love bridging the gap between robust, clean server-side logic and intuitive, user-centric interfaces. 
 
-* 🏢 **Organization:** Chairman of the Executive Committee for ASTECH (Association of Software Engineering Technology).
 * 🛠️ **Current Focus:** Full-stack web development, Software Development Life Cycle (SDLC), Agile practices, and interactive system designs.
 * 💡 **Interests:** Internet of Things (IoT) for precision agriculture and building assistive technologies for social impact.
 
@@ -41,14 +40,14 @@ I am a passionate Software Engineering Technology student specializing in backen
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Zidan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gembuls&show_icons=true&theme=radical" alt="Zidan's GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gembuls&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** your.email@example.com
+* **LinkedIn:** [linkedin.com/in/yudhas-agali-cogati](https://linkedin.com/in/yudhas-agali-cogati)
+* **Email:** yudhascogati@gmail.com
