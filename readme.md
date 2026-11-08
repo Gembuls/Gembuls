@@ -49,5 +49,5 @@ I am a passionate Software Engineering Technology student specializing in backen
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/yudhas-agali-cogati-6750243a0](linkedin.com/in/yudhas-agali-cogati-6750243a0)
+* **LinkedIn:** [linkedin.com/in/yudhas-agali-cogati-6750243a0](linkedin.com/in/yudhas-agali-cogati)
 * **Email:** yudhascogati@gmail.com
