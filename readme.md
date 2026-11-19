@@ -37,17 +37,6 @@ I am a passionate Software Engineering Technology student specializing in backen
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gembuls&show_icons=true&theme=dark" alt="Gembuls GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gembuls&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/yudhas-agali-cogati-6750243a0](linkedin.com/in/yudhas-agali-cogati)
 * **Email:** yudhascogati@gmail.com
